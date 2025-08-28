@@ -25,7 +25,7 @@
 ---
 
 ##  Onde me encontrar  
-- [LinkedIn](https://www.linkedin.com/in/SEU-LINK/)  
+- [LinkedIn](https://www.linkedin.com/in/gabriela-nunes-648950351)  
 - ✉️ E-mail: gabrielanuniezz@gmail.com  
 
 ---
