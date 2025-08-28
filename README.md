@@ -16,6 +16,10 @@
 
 ---
 
+<img src="./snake.svg" alt="Cobrinha que come commits" />
+
+---
+
 ##  Estatísticas do GitHub  
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=GabrielaNunes0&show_icons=true&theme=radical)  
