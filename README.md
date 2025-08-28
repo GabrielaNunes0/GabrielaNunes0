@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
+##  Estatísticas do GitHub  
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=GabrielaNunes0&show_icons=true&theme=radical)  
 
@@ -24,12 +24,7 @@
 
 ---
 
-## 🔥 Streaks  
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU-USUARIO&theme=radical&hide_border=true)  
-
----
-
-## 🌎 Onde me encontrar  
+##  Onde me encontrar  
 - [LinkedIn](https://www.linkedin.com/in/SEU-LINK/)  
 - ✉️ E-mail: gabrielanuniezz@gmail.com  
 
