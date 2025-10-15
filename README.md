@@ -18,7 +18,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h3 align="left">Connect with me!</h3>
 
-<p align="center">
+<p align="left">
   <a href="mailto:gabrielanuniezz@gmail.com">
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail&logoColor=FF00F6" alt="Email">
   </a>
