@@ -18,9 +18,20 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail&logoColor=FF00F6)](mailto:gabrielanuniezz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/gabriela-nunes-648950351)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram&logoColor=FF00F6)](https://www.instagram.com/rootspecter12893)
+<p align="center">
+  <a href="mailto:gabrielanuniezz@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail&logoColor=FF00F6" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/gabriela-nunes-648950351">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=FF00F6" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/rootspecter12893">
+    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram&logoColor=FF00F6" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/@GabrielaNunes-DEV">
+    <img src="https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=FF00F6" alt="YouTube">
+  </a>
+</p>
 
 
 
