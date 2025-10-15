@@ -23,9 +23,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram&logoColor=FF00F6)](https://www.instagram.com/rootspecter12893)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=FF00F6)](https://www.youtube.com/@GabrielaNunes-DEV)
 
-
-
-
+#
 
 <h3 align="left">My Stack ~</h3>
 
