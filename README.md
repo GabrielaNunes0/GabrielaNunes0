@@ -11,14 +11,13 @@ Connect with me!
 📧 E-mail  💼 LinkedIn  📷 Instagram
 
  My Stack ~
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </p>
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+
+
 ---
 
-
-##  Bem-vindo ao meu perfil!  
-<img src="./snake.svg" alt="Cobrinha animada comendo commits" />
-
---- 
 
 ##  Estatísticas do GitHub  
 
