@@ -5,9 +5,6 @@
   </a>
 </div>
 
-<img src=".github/study.gif" width="300" alt="Study gif">
-
-
 #
 
 <p align="center"> Olá, eu sou a Gabriela Nunes, estudante de Análise e Desenvolvimento de Sistemas na Etec Presidente Vargas. Atualmente estudo Java e C# paralelamente.
@@ -17,7 +14,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-
+<img align="right" alt="" height="190px" src=".github/study.gif" alt="Study gif">
 
  My Stack ~
 <p align="left"> 
