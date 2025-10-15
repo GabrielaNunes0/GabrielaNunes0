@@ -1,9 +1,7 @@
 #  Olá, eu sou a Gabriela Nunes  
 
  Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
- Apaixonada pelo universo da **Cibersegurança**  
- Atualmente focada em evoluir nas linguagens abaixo  
-
+ Atualmente focada em evoluir em C#
 ---
 
 Connect with me!
