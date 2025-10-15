@@ -16,7 +16,14 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <img align="right" alt="" height="190px" src=".github/study.gif" alt="Study gif">
 
- My Stack ~
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabrielanuniezz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabriela-nunes-648950351)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/rootspecter12893)
+
+<h3 align="left">My Stack ~</h3>
+
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -25,8 +32,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 ---
 
 
-##  Estatísticas do GitHub  
-
+<div style="text-align: center;" align="center">
+  
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=GabrielaNunes0&show_icons=true&theme=radical)  
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaNunes0&layout=compact&theme=radical)  
@@ -43,12 +50,5 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 ---
 
-##  Onde me encontrar  
- 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabrielanuniezz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabriela-nunes-648950351)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/rootspecter12893)
-
----
 
  Obrigada por visitar meu perfil!   
