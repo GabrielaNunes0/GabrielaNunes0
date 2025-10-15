@@ -5,7 +5,8 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/.github/study.gif">
+<img src=".github/study.gif" width="300" alt="Study gif">
+
 
 #
 
