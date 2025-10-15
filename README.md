@@ -7,8 +7,8 @@
 
 #
 
-<p align="center"> Olá, eu sou a Gabriela Nunes, estudante de Análise e Desenvolvimento de Sistemas na Etec Presidente Vargas. Atualmente estudo Java e C# paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center"> Olá, eu sou a Gabriela Nunes, estudante de Análise e Desenvolvimento de Sistemas na Etec Presidente Vargas. Atualmente estudo Java e C#, paralelamente
+estou constantemente atualizando meus conhecimentos e buscando novos desafios e linguagens na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
 
