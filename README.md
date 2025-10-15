@@ -29,8 +29,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 
 
----
-
 
 <div style="text-align: center;" align="center">
   
@@ -38,9 +36,9 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaNunes0&layout=compact&theme=radical)  
 
----
 
-##
+
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
@@ -48,7 +46,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+
 
 
  Obrigada por visitar meu perfil!   
