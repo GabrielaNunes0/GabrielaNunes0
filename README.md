@@ -37,7 +37,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaNunes0&layout=compact&theme=radical)  
 
 
-
+#
 
 
 <picture align="center">
