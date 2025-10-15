@@ -1,8 +1,3 @@
-#  Olá, eu sou a Gabriela Nunes  
-
- Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
- Atualmente focada em evoluir em C#
----
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -14,7 +9,7 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
+<p align="center"> Olá, eu sou a Gabriela Nunes, estudante de Análise e Desenvolvimento de Sistemas na Etec Presidente Vargas. Atualmente estudo Java e C# paralelamente.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
