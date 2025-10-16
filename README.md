@@ -15,23 +15,31 @@
   </samp>
 </div>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Systems+Development;I'm+also+a+Developer;Be+welcome!" alt="Typing SVG"/>
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img 
+    height="180"
+    width="49%"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=GabrielaNunes0&show_icons=true&theme=ayu-mirage"
+  />
+  <img 
+    height="180"
+    width="41%"
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaNunes0&layout=compact&theme=ayu-mirage"
+  />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/gabi_♡-755b25?style=flat-square" />
+  <img 
+    align="center"
+    alt="Profile Details"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaNunes0&theme=ayu_mirage"
+  />
 </div>
-      
-<br>
-<br>
-      
-<div height=180 >
-  <img height="180" alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=GabrielaNunes0&show_icons=true&theme=ayu-mirage"/>  <img height="180"  alt="Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaNunes0&layout=compact&theme=ayu-mirage"/>
+
 
   <br><br>
   
