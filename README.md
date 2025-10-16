@@ -28,11 +28,9 @@
 <br>
 <br>
       
-<div align="center" style="display: flex; justify-content: center;">
+<div>
   <img height="180" alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=GabrielaNunes0&show_icons=true&theme=ayu-mirage"/>
-
-  <img height="180"  alt="Top Languages"
+       src="https://github-readme-stats.vercel.app/api?username=GabrielaNunes0&show_icons=true&theme=ayu-mirage"/>  <img height="180"  alt="Top Languages"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaNunes0&layout=compact&theme=ayu-mirage"/>
 
   <br><br>
