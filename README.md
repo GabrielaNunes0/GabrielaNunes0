@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img src="png gengar.png" alt="Gengar" width="400" />
+  <img src="snorlax.png" alt="Snorlax" width="400" />
 </div>
 
 
