@@ -28,7 +28,7 @@
 <br>
 <br>
       
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img height="180" alt="GitHub Stats"
        src="https://github-readme-stats.vercel.app/api?username=GabrielaNunes0&show_icons=true&theme=ayu-mirage"/>
 
