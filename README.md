@@ -3,8 +3,9 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+  <img src="png gengar.png" alt="Gengar" width="400" />
 </div>
+
 
 <div align="center">
   
