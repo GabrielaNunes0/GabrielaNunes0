@@ -29,18 +29,15 @@
 <br>
       
 <div align="center">
-  <!-- GitHub stats (endpoint oficial) -->
-  <img height="180" align="center" alt="GitHub Stats"
+  <img height="180" alt="GitHub Stats"
        src="https://github-readme-stats.vercel.app/api?username=GabrielaNunes0&show_icons=true&theme=ayu-mirage"/>
 
-  <!-- Top languages (endpoint oficial) -->
-  <img height="180" align="center" alt="Top Languages"
+  <img height="180"  alt="Top Languages"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaNunes0&layout=compact&theme=ayu-mirage"/>
 
   <br><br>
-
-  <!-- Profile details (https) -->
-  <img align="center" alt="Profile Details"
+  
+  <img alt="Profile Details"
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaNunes0&theme=ayu_mirage"/>
 </div>
 
