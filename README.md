@@ -82,7 +82,7 @@
 <div align="center">
   <p align="center">
       <samp>
-        ♡ <a href="https://linktr.ee/GabrielaNunesDEV">linktr.ee</a> ⊹
+        ♡ ⊹
         <a href="https://github.com/GabrielaNunes0">GitHub</a> ⊹
         <a href="https://www.youtube.com/@GabrielaNunes-DEV">YouTube</a>
       </samp>
