@@ -15,6 +15,8 @@
   </samp>
 </div>
 
+#
+
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img 
     height="180"
@@ -38,13 +40,6 @@
     alt="Profile Details"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaNunes0&theme=ayu_mirage"
   />
-</div>
-
-
-  <br><br>
-  
-  <img height=180 alt="Profile Details"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaNunes0&theme=ayu_mirage"/>
 </div>
 
 
