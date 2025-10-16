@@ -29,12 +29,21 @@
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=GabrielaNunes0&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielaNunes0&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
-  <br>
-  <br>
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaNunes0&theme=ayu_mirage"/>
+  <!-- GitHub stats (endpoint oficial) -->
+  <img height="180" align="center" alt="GitHub Stats"
+       src="https://github-readme-stats.vercel.app/api?username=GabrielaNunes0&show_icons=true&theme=ayu-mirage"/>
+
+  <!-- Top languages (endpoint oficial) -->
+  <img height="180" align="center" alt="Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaNunes0&layout=compact&theme=ayu-mirage"/>
+
+  <br><br>
+
+  <!-- Profile details (https) -->
+  <img align="center" alt="Profile Details"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaNunes0&theme=ayu_mirage"/>
 </div>
+
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
